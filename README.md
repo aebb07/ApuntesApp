@@ -10,11 +10,13 @@
 
 Collection 'notes'
 
-   `{
+   ```
+   {
          id:
          title:
          content:
-   }`
+   }
+   ```
 
 ## Dependencies
 
