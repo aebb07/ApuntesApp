@@ -38,7 +38,7 @@ Collection 'notes'
 
 METHOD  | URL
 --------| --------
-        | /search/?title=XXXX
+  GET   | /search/?title=XXXX
         | /list/
-*GET*   | /new/?title=XXXX&content=XXXX
+        | /new/?title=XXXX&content=XXXX
         | /delete/?id=XXXX
