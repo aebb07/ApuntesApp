@@ -10,8 +10,8 @@
 
 Collection 'notes'
 
-`<{
+`{
    id:
    title:
    content:
-   }>`
+   }`
