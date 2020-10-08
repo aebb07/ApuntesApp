@@ -7,8 +7,8 @@
 ## Templates
 
 ![Template 1- Header and Footer](/templates/TEMPLATE1.png)
-![Template 2- Notes](/templates/TEMPLATE1.png)
-![Template 3- Modal for each note](/templates/TEMPLATE1.png)
+![Template 2- Notes](/templates/TEMPLATE2.png)
+![Template 3- Modal for each note](/templates/TEMPLATE3.png)
 
 ## Documents and collections
 
