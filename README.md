@@ -11,11 +11,11 @@
 Collection 'notes'
 
    ```
-   {
-         id:
-         title:
-         content:
-   }
+    {
+        id:
+        title:
+        content:
+    }
    ```
 
 ## Dependencies
