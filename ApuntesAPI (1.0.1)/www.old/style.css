@@ -1,0 +1,16 @@
+.card {
+    background: #3C3B3D; 
+    color: white;
+    position: relative;
+    height: 12rem;
+    width: 25%;
+    padding: 15px;
+}
+
+
+.card:hover {
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.45);
+}
+
+
+
