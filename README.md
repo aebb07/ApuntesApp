@@ -32,7 +32,7 @@ Collection 'notes'
 6. Delete button
 7. Modal window in each note
 8. Inputs in modal window
-9. close modal window button
+9. Close modal window button
 
 ## API endpoints
 
